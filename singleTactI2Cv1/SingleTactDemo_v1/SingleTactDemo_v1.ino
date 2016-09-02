@@ -34,7 +34,7 @@ void setup()
   }
   Serial.println("PPS UK: SingleTact sensor value in PSI. \n(resembles PC executable display)");
   Serial.println("Refer manual for any other calculation.");
-  Serial.println("----------------------------------------");  
+  Serial.println("----------------------------------------");	
 }
 
 void loop()
